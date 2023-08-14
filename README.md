@@ -35,7 +35,7 @@ This project is a web application that fetches data from the Github API using OA
 1.  Clone this repository to your local machine.
     
     ```bash
-    git clone https://github.com/BalkanID-University/balkanid-summer-internship-vit-vellore-2023-rujulsrivastava.git 
+    git clone https://github.com/rujulsrivastava/github_oauth.git 
     cd <project-directory>
     cd master
     ```
